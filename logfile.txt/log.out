@@ -1,0 +1,21 @@
+2020-08-18 09:25:18-main--INFO -com.mycode.MyClass:logging stareted
+  2020-08-18 09:25:18-main--INFO -com.mycode.MyClass:logging Exception
+  2020-08-18 09:25:18-Thread-1--INFO -com.mycode.MyThread1:11
+  2020-08-18 09:25:18-Thread-1--DEBUG-com.mycode.MyThread1:debug
+  2020-08-18 09:25:18-Thread-1--INFO -com.mycode.MyThread1:11
+  2020-08-18 09:25:18-Thread-1--DEBUG-com.mycode.MyThread1:debug
+  2020-08-18 09:25:18-Thread-0--INFO -com.mycode.MyThread:10
+  2020-08-18 09:25:18-Thread-0--ERROR-com.mycode.MyThread:10
+  2020-08-18 09:25:18-Thread-0--INFO -com.mycode.MyThread:10
+  2020-08-18 09:25:18-Thread-0--ERROR-com.mycode.MyThread:10
+  2020-08-18 09:29:05-main--INFO -com.mycode.MyClass:logging stareted
+  2020-08-18 09:29:05-Thread-1--INFO -com.mycode.MyThread1:11
+  2020-08-18 09:29:05-Thread-1--DEBUG-com.mycode.MyThread1:debug
+  2020-08-18 09:29:05-Thread-1--INFO -com.mycode.MyThread1:11
+  2020-08-18 09:29:05-Thread-1--DEBUG-com.mycode.MyThread1:debug
+  2020-08-18 09:29:05-Thread-0--INFO -com.mycode.MyThread:10
+  2020-08-18 09:29:05-Thread-0--ERROR-com.mycode.MyThread:10
+  2020-08-18 09:29:05-Thread-0--INFO -com.mycode.MyThread:10
+  2020-08-18 09:29:05-Thread-0--ERROR-com.mycode.MyThread:10
+  2020-08-18 09:29:05-main--INFO -com.mycode.MyClass:logging Exception
+  
